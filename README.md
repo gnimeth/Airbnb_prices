@@ -28,7 +28,7 @@
 
 ## **Preparing the Data**:
 
-	1) ### **Cleaning**
+	### 1) **Cleaning**
 		a. Transform data from gz to csv
 		b. Remove entries not within Chicago
 		c. Drop multitude of columns not relevent to our goal
