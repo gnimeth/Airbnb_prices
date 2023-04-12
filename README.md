@@ -1,4 +1,4 @@
-# *Final Project - Chicago AirBnB Pricing Model*
+# **Final Project - Chicago AirBnB Pricing Model**
 
 ### **Contributors**:
 
@@ -10,7 +10,7 @@
 
 ### **About our dataset**:
 
-	• Used data collected from [Inside Airbnb](http://insideairbnb.com/get-the-data/) for Chicago which is updated quarterly. Our pull was from March 19, 2023	
+	• Used data collected from [Inside Airbnb] (http://insideairbnb.com/get-the-data/) for Chicago which is updated quarterly. Our pull was from March 19, 2023	
 	
 	        
  ### **About our project**:
@@ -26,7 +26,7 @@
 	• Numpy
 	
 
-## Preparing the Data:
+## **Preparing the Data**:
 
 	1) ### **Cleaning**
 		a. Transform data from gz to csv
