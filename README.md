@@ -34,4 +34,4 @@
 		c. Drop multitude of columns not relevent to our goal
 		d. Ensure data types are appropriate and convert as needed
 		e. Remove NaN values
-    f. Streamline property types to be easier to navigate and appropriately combined![image](https://user-images.githubusercontent.com/84541056/231609547-7d460df7-c305-48e6-a50f-e43350b42c6f.png)
+    		f. Streamline property types to be easier to navigate and appropriately combined
