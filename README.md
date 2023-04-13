@@ -21,9 +21,12 @@
 ### **Restrictions**:
 	• Pricing varies per day of the week as well as holidays and this type of data was not within our dataset, so we have to use other prediction factors outside of the realm of time
 
-### **Languages Used**:
+### **Languages/Techniques Used**:
 	• Pandas
 	• Numpy
+	• Matplotlib
+	• RandomForest
+	• Tableau
 	
 
 ## **Preparing the Data**:
