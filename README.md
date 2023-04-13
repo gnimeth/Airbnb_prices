@@ -27,11 +27,10 @@
 	
 
 ## **Preparing the Data**:
-
-	### 1) **Cleaning**
-		a. Transform data from gz to csv
-		b. Remove entries not within Chicago
-		c. Drop multitude of columns not relevent to our goal
-		d. Ensure data types are appropriate and convert as needed
-		e. Remove NaN values
-    		f. Streamline property types to be easier to navigate and appropriately combined
+	* Transform data from gz to csv
+	* Remove entries not within city limits of Chicago
+	* Drop multitude of columns not relevent to our goal
+	* Ensure data types are appropriate and convert as needed
+	* Remove NaN values
+	* Streamline property types to be easier to navigate and appropirately group
+	 
