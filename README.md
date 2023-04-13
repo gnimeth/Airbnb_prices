@@ -27,7 +27,7 @@
 	
 
 ## **Preparing the Data**:
-	* Transform data from gz to csv
+	- Transform data from gz to csv
 	* Remove entries not within city limits of Chicago
 	* Drop multitude of columns not relevent to our goal
 	* Ensure data types are appropriate and convert as needed
