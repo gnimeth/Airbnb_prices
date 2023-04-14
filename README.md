@@ -20,22 +20,34 @@
 
 ### **Restrictions**:
 	• Pricing varies per day of the week as well as holidays and this type of data was not within our dataset, so we have to use other prediction factors outside of the realm of time
+	* Using provided location data was diffcult since there are many neighborhoods within Chicago and zip code 		information was not provided
 
 ### **Languages/Techniques Used**:
 	• Pandas
 	• Numpy
 	• Matplotlib
-	• RandomForest
+	• RandomForest Regressor
+	* Standard Scalar
+	* OneHot Encoding
+	* Confusion Matrix
 	• Tableau
+	* GridSearchCV
 	
 
 ## **Preparing the Data**:
-	• Transform data from gz to csv
-	• Remove entries not within Chicago
-	• Drop multitude of columns not relevent to our goal
-	• Ensure data types are appropriate and convert as needed
-	• Remove NaN values
-	• Streamline property types to be easier to navigate and appropriately combined
+	• ETL process performed on dataset 
+	• Drop multitude of columns, remove NaN values, and locations not in Chicago not relevent to our goal
+	• Ensure data types are appropriate to the categorical columns and numerical columns. Our target Y variable was 	converted to a float
+	• Identified price outliers using IQR 
+	* Used Get Dummies to help define our X variable within our model
+
+## **Process:**
+	* 
+
+## **Analysis:**
+	* 
+
+
 
 ![image] (https://user-images.githubusercontent.com/84541056/231615261-5d030512-c834-40d8-a8c0-cb4be6feeca9.png)
 
