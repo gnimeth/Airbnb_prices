@@ -42,14 +42,34 @@
 * Used Get Dummies to help define our X variable within our model
 
 ## **Process:**
-* 
+- Eliminated columns that’s data was not trainable.
+	- Binned data so that samples with low frequency were bundled under other.
+	- Scaled the data.
+	- Set up test environments.
+	- Targeted variable Y: price prediction
+		- X variable is our features
+	- Fit model
+	- Elevated the model
+	- Saved Model
+	- Created optimized model.
+	- 
+1) Select random samples from a given data or training set
+2) This algorthim extracts random data entries for training
+3) Voting will be performed for every predicted result
+4) Select the most voted predicted result as the final prediction result
+
+* Used 2 random processes - bootstrapping and aggregation
+* Optimized our model using GridSearchCV and hypertuning parameters, which gave us the best fit for the model
+
 
 ## **Analysis:**
-* 
+* Model produced inconclusive evidence that the chosen attributes could accurately predict pricing
+	* Predicted pricing values produced were only accurate within $64, proving unreliable
+		* Bedrooms was the highest contributing factor at 36%, followed by Accomodates at 16% and Reviews per Month 			at 8%
 
 
 
-![image] (https://user-images.githubusercontent.com/84541056/231615261-5d030512-c834-40d8-a8c0-cb4be6feeca9.png)
+
 
 
 
