@@ -49,7 +49,7 @@
 	- Scaled the data.
 	- Set up test environments.
 	- Targeted/Y variable : price prediction
-		- X variable : features
+		- X variable : feature categoreis
 	- Fit model
 	- Elevated the model
 	- Saved Model
