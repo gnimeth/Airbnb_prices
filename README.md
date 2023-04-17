@@ -21,6 +21,7 @@
 
 ### **Restrictions:**
 * AirBnB pricing varies per day of the week and on holidays - this type of pricing information was not within our dataset. 
+	* Only date information provided was Host Since, First Review, and Last Review 
 * Using provided location data was diffcult since there are many neighborhoods within Chicago and zip code data was not provided
 	* Location data provided was not consistent across different categories. It did not include all Chicago neighborhoods. Some neighborhoods included had very 	      little data within them. 
 
