@@ -15,13 +15,14 @@
 	        
  ### **About our project:**
 
-* Can we predict the future prices of Airbnb's across Chicago using location, property type, size of property, past pricing, and various review types?
+* Can we predict the future prices of AirBnB's across Chicago using location, property type, size of property, past pricing, and various review types?
 * We sought to create a Data Model to check the reliability of the above variables in predicting price.
 	* What are the main variables that contribute to pricing?
 
 ### **Restrictions:**
-* Pricing varies per day of the week as well as holidays and this type of pricing information was not within our dataset. 
+* AirBnB pricing varies per day of the week and on holidays - this type of pricing information was not within our dataset. 
 * Using provided location data was diffcult since there are many neighborhoods within Chicago and zip code data was not provided
+	* Location data provided was not consistent across different categories. It did not include all Chicago neighborhoods. Some neighborhoods included had very 	      little data within them. 
 
 ### **Languages/Techniques Used:**
 * Pandas
