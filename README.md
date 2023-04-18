@@ -50,7 +50,7 @@
 	- Scaled the data.
 	- Set up test environments.
 	- Targeted/Y variable : price prediction
-		- X variable : key feature categoreis
+		- X variable : key feature categoreis (bedrooms, accomodates, bathrooms, reviews per month, number of reviews, etc.)
 	- Fit model
 	- Elevated the model
 	- Saved Model
