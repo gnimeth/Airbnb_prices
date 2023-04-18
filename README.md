@@ -10,7 +10,7 @@
 
 ### **About our dataset:**
 
-* Used data collected from [Inside Airbnb](http://insideairbnb.com/get-the-data/) for Chicago which is updated quarterly. Our pull was from March 19, 2023	
+* Used data collected from [Inside Airbnb](http://insideairbnb.com/get-the-data/) for Chicago which is updated quarterly for the last year. Our pull was from March 19, 2023	
 	
 	        
  ### **About our project:**
