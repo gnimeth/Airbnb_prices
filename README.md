@@ -71,6 +71,10 @@
 	* Predicted pricing values produced were only accurate within $64, proving unreliable
 		* Bedrooms was the highest contributing factor at 36%, followed by Accomodates at 16% and Reviews per Month at 8%
 
+## **Conclusions:**
+* Despite limitiations, a model similar to this would still prove useful as it has potential to be further accurate with additional datasets   	 and feature categories.
+* The overprediction that we got as our result is still more useful than an underprediction in pricing in this type of business landscape,    	especially for AirBnB guests
+
 
 
 
