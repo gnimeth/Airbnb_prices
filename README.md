@@ -1,4 +1,4 @@
-# Chicago AirBnB Pricing Model**
+# Chicago AirBnB Pricing Model
 
 ### **About the dataset:**
 
