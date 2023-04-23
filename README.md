@@ -1,22 +1,14 @@
-# **Final Project - Chicago AirBnB Pricing Model**
+# Chicago AirBnB Pricing Model**
 
-### **Contributors:**
-
-* Genevieve Nimeth
-* Sandhya Datla
-* Rebecca Levine
-* Samuel Rose
-* Caitlin Cavanaugh
-
-### **About our dataset:**
+### **About the dataset:**
 
 * Used data collected from [Inside Airbnb](http://insideairbnb.com/get-the-data/) for Chicago which is updated quarterly for the last year. Our pull was from March 19, 2023	
 	
 	        
- ### **About our project:**
+ ### **About the project:**
 
-* Can we predict the future prices of AirBnB's across Chicago using location, property type, size of property, past pricing, and various review types?
-* We sought to create a Data Model to check the reliability of the above variables in predicting price.
+* Can future prices of AirBnB's across Chicago using location, property type, size of property, past pricing, and various review types be predicted?
+* Create a Data Model to check the reliability of the above variables in predicting price.
 	* What are the main variables that contribute to pricing?
 
 ### **Restrictions:**
@@ -42,7 +34,7 @@
 * Drop multitude of columns, remove NaN values, and locations not within Chicago city limits
 * Ensure data types are appropriate to the categorical columns and numerical columns. Our target (Y variable) was converted to a float
 * Identified price outliers using IQR 
-* Used Get Dummies to help define our X variable within our model
+* Used Get Dummies to help define our X variable within the model
 
 ## **Data Model Process:**
 1) Eliminated columns in which data was not trainable.
